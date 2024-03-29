@@ -1,6 +1,7 @@
 # Bomberman SDF
 
-<img src=https://github.com/MilesTails01/BombermanSDF/assets/83541965/592af7b9-491a-4952-ac47-3522bf74b1ce height=400 />
+https://github.com/MilesTails01/BombermanSDF/assets/83541965/9464f176-a083-43a5-8225-f5305bd44afb
+
 
 **Download the Project**
 ```
